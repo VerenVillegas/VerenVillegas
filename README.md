@@ -4,7 +4,7 @@
 ## About Me 
 Software engineer at Micro Solution LTD. Mainly work with Laravel, React, MYSQL, Tailwind.
 
-## Qualifications
+## Qualifications & Experience
 * Bachelor of Science BSC _[2021-2023]_
    > Major in Computer Science University of Waikato
 * Micro Solution LTD _[2025 - Present]_
