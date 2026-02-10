@@ -7,6 +7,8 @@ Software engineer at Micro Solution LTD. Mainly work with Laravel, React, MYSQL,
 ## Qualifications
 * Bachelor of Science BSC _[2021-2023]_
    > Major in Computer Science University of Waikato
+* Micro Solution LTD _[2025 - Present]_
+   > System Engineer
 
 
 </div>
