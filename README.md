@@ -20,11 +20,6 @@ Software engineer at Micro Solution LTD. Mainly work with Laravel, React, MYSQL,
       <a href="https://myanimelist.net/profile/Vommy"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"/></a>
 </div>
 
-## Github Stats
-[![Vommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vommy&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vommy&layout=donut&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **Vommy/Vommy** is a ✨ _special_ ✨ repository because its![Uploading aboutMe.png…]()
  `README.md` (this file) appears on your GitHub profile.
