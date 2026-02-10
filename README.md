@@ -13,15 +13,6 @@ Software engineer at Micro Solution LTD. Mainly work with Laravel, React, MYSQL,
 
 </div>
 
-## Socials and Contact
-<div>
-      <a href="https://www.linkedin.com/in/veren-villegas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-      <a href="https://www.youtube.com/@vombox_"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-      <a href="https://www.instagram.com/verenvillegas/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-      <a href="https://www.twitch.tv/vombox_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-      <a href="https://myanimelist.net/profile/Vommy"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white"/></a>
-</div>
-
 <!--
 **Vommy/Vommy** is a ✨ _special_ ✨ repository because its![Uploading aboutMe.png…]()
  `README.md` (this file) appears on your GitHub profile.
